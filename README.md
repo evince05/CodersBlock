@@ -9,11 +9,17 @@ and the Super Stone Tools make mining that much faster!
 
 ## Ghast Blade
 
+![demos/ghast_blade_crafting.gif](ghast_blade_crafting.gif)
+
+![demos/ghast_blade_hit.gif](ghast_blade_hit.gif)
+
 ## The Crossbow of Legends
 
 ## Exploding Horses
 
 ## Super Stone Tools
+
+![demos/super_stone_tools.gif](super_stone_tools.gif)
 
 # Session 2
 
