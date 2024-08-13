@@ -9,17 +9,43 @@ and the Super Stone Tools make mining that much faster!
 
 ## Ghast Blade
 
-![demos/ghast_blade_crafting.gif](ghast_blade_crafting.gif)
+The Ghast Blade is a special sword that can shoot fireballs!
+It has a custom recipe of a stick, ghast tear, and fire charge.
 
-![demos/ghast_blade_hit.gif](ghast_blade_hit.gif)
+![/demos/ghast_blade_crafting.gif](/demos/ghast_blade_crafting.gif)
+
+The Ghast Blade functions like a normal sword with fire aspect.
+However, when you right click, it shoots an explosive fireball!
+This ability has a 5 second cooldown.
+
+![/demos/ghast_blade_hit.gif](/demos/ghast_blade_hit.gif)
 
 ## The Crossbow of Legends
 
+The Crossbow of Legends is a super powerful, super fast crossbow!
+It has Multishot 7 and Quick Charge 4, making it the perfect tool to keep mobs at bay.
+
+You can craft it using a crossbow, two dispensers, and two netherite ingots.
+
+![/demos/crossbow_of_legends_craft](/demos/crossbow_of_legends_craft.gif)
+
+Watch it work its magic!
+
+![/demos/crossbow_of_legends_hit](/demos/crossbow_of_legends_hit.gif)
+
 ## Exploding Horses
+
+This feature is a fun prank for your friends. Use a name tag to name a horse "Boom",
+and whenever someone tries to ride that horse, it explodes!
+
+![/demos/exploding_horses.gif](/demos/exploding_horses.gif)
 
 ## Super Stone Tools
 
-![demos/super_stone_tools.gif](super_stone_tools.gif)
+Super Stone Tools makes stone tools much more useful. Now, all stone tools
+(pickaxe, axe, shovel, hoe) automatically receive Efficiency 25!
+
+![/demos/super_stone_tools.gif](/demos/super_stone_tools.gif)
 
 # Session 2
 
