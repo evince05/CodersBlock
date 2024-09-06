@@ -1,0 +1,16 @@
+name: SuperPowers
+main: plugin.SuperPowers
+version: 0.1.1
+api-version: 1.21
+
+commands:
+   tribechange:
+     description: changes your tribe
+     usage: /<command>
+     permission: yourplugin.yourcommandpermission 
+   togglefirewalk:
+     description: toggles your fire walking
+     usage: /<command>
+   smelt:
+     description: smelts items in your hand
+     usage: /<command>

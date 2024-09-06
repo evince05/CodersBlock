@@ -2,3 +2,13 @@ name: CodersBlockPlugin
 main: plugin.MyPlugin
 version: 0.0.1
 api-version: 1.21
+
+commands:
+  superpower:
+    description: Toggle your superpower!
+    aliases: [ sp ]
+    usage: "/superpower"
+  egg:
+    description: "What's this? Hmm..."
+  kit:
+    description: "You might want this..."

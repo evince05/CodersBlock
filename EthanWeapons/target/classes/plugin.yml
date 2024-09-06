@@ -1,0 +1,23 @@
+name: EthanWeapons
+main: plugin.MyPlugin
+version: 0.0.1
+api-version: 1.21
+
+
+commands:
+   nahidwin:
+     usage: /<command>
+     permission: yourplugin.yourcommandpermission
+
+   gimme_arro:
+     description: gives a stack of "special" arrows
+     usage: /<command>
+     permission: yourplugin.yourcommandpermission
+   powerbow:
+     description: :)
+     usage: /<command>
+     permission: yourplugin.yourcommandpermission
+
+   pewpew:
+     usage: /<command>
+     permission: yourplugin.yourcommandpermission
