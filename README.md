@@ -104,7 +104,12 @@ Water Tribe - Water breathing, faster swim speed, faster mining underwater
 
 ## Adding the CodersBlock plugin to your server
 
-To add the CodersBlock plugin to your server, download the codersblock-0.0.1 jar file in the target folder.
+1) Open the target folder and download the codersblock-0.0.1 jar file.
+2) Open File Explorer, then go to your Downloads folder.
+3) Copy the downloaded jar file (Ctrl-C or Cmd-C).
+4) Open your Minecraft Server folder, then go to the plugins folder.
+5) Paste the file (Ctrl-V or Cmd-V).
+6) Start your server.
 
 ## Adding the EthanWeapons and TribesPlugin plugins to your server
 
@@ -112,3 +117,8 @@ To add the CodersBlock plugin to your server, download the codersblock-0.0.1 jar
 2) Inside the folder, open the target folder.
 3) If you are downloading EthanWeapons, download the ethan-weapons-0.0.1 jar file.
 4) If you are downloading TribesPlugin, download the super-powers-0.0.1 jar file.
+5) Open File Explorer, then go to your Downloads folder.
+6) Copy the downloaded jar file (Ctrl-C or Cmd-C).
+7) Open your Minecraft Server folder, then go to the plugins folder.
+8) Paste the file (Ctrl-V or Cmd-V).
+9) Start your server.
